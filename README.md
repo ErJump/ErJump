@@ -1,4 +1,15 @@
-### Hi there 👋
+### 
+
+<div id="header" align="center" >
+  Hello there 🕹 
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="100"/>
+</div>
+
+### I'm Giampiero, welcome to my GitHub Profile!
+
 
 <!--
 **ErJump/ErJump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
