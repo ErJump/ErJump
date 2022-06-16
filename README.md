@@ -23,9 +23,9 @@
 
 ### :man_technologist: About Me :
 
-I'm a Full Stack student from Rome (Italy)
+I'm a Full Stack student from Rome (Italy) - 25 y.o.
   - 🌱 I’m currently learning: HMTL - CSS - JavaScript - PHP - Laravel
-  - ⚡ Fun fact: Nerd - Bass Player - Artist
+  - 🎮 Hobbies: Nerd - Bass Player - Artist
   - 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giampiero-fedeli-9b818b1b9/">
