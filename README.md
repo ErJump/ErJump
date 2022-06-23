@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  ### Giampiero Fedeli aka ErJump
+  ### Giampiero Fedeli 
 
   ### Web Dev - Graphic Designer - UI & UX Designer
 
