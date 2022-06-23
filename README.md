@@ -51,3 +51,9 @@ I'm a Full Stack student from Rome (Italy) - 25 y.o.
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="xd" **alt="xd" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
+
+---
+
+### <h1> Check Out my little projects:
+  
+  <a href="https://erjump.github.io/html-css-spotifyweb/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/></a>
