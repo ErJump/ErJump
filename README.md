@@ -58,6 +58,6 @@ I'm a Full Stack student from Rome (Italy) - 25 y.o.
 
 <div>
 <a href="https://erjump.github.io/html-css-spotifyweb/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"  title="CSS3" alt="CSS" width="40" height="40"/></a>
-<a href="https://erjump.github.io/htmlcss-playstation/"><img src="https://github.com/ErJump/htmlcss-playstation/blob/main/img/ps-footer.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>
+<a href="https://erjump.github.io/htmlcss-playstation/"><img src="https://github.com/ErJump/htmlcss-playstation/blob/main/img/play_logo.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>
 <a href="https://erjump.github.io/htmlcss-dropbox/"><img src="https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/branding/app-dropbox-android@2x.png"  title="CSS3" alt="CSS" width="40" height="40"/></a>
 </div>
