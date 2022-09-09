@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Full Stack student from Rome (Italy) - 25 y.o.
+I'm a Full Stack student from Rome (Italy) - 26 y.o.
   - 🌱 I’m currently learning: HMTL - CSS - JavaScript - PHP - Laravel
   - 🎮 Hobbies: Nerd - Bass Player - Artist
   - 📫 How to reach me: 
