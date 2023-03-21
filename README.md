@@ -15,7 +15,7 @@
   
   ### Giampiero Fedeli 
 
-  ### Web Dev - Graphic Designer - UI & UX Designer
+  ### Full Stack Dev - UI & UX Designer
 
 </div>
 
@@ -23,8 +23,8 @@
 
 ### :man_technologist: About Me :
 
-I'm a Full Stack student from Rome (Italy) - 26 y.o.
-  - 🌱 I’m currently learning: React - Angular
+I'm a Full Stack Developer from Rome (Italy) - 26 y.o.
+  - 🌱 I’m currently learning: React - Angular - Power Platform
   - 🎮 Hobbies: Nerd - Bass Player - Artist
   - 📫 How to reach me: 
 <div id="badges">
