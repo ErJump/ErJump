@@ -23,9 +23,10 @@
 
 ### :man_technologist: About Me :
 
-I'm a Full Stack Developer from Rome (Italy) - 26 y.o.
-  - 🌱 I’m currently learning: React - Angular - Power Platform
+I'm a Power Platform and Full Stack Dev from Rome (Italy) - 27 y.o.
+  - 🌱 I’m currently learning: Power Platform - Azure
   - 🎮 Hobbies: Nerd - Bass Player - Artist
+  - 🧠 AI Entusiast
   - 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/giampiero-fedeli-9b818b1b9/">
