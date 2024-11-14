@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Power Platform and Full Stack Dev from Rome (Italy) - 27 y.o.
+I'm a Power Platform and Full Stack Dev from Rome (Italy) - 28 y.o.
   - 🌱 I’m currently learning: Power Platform - Azure
   - 🎮 Hobbies: Nerd - Bass Player - Artist
   - 🧠 AI Entusiast
