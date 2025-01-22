@@ -12,7 +12,7 @@
   
   ## 🚀 Giampiero Fedeli  
 
-  ### Full Stack Developer | UI/UX Designer | Power Platform Enthusiast  
+  ### Full Stack & Power Platform DEV | UI/UX Designer | AI Enthusiast  
 
 </div>
 
