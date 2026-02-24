@@ -12,7 +12,7 @@
   
   ## 🚀 Giampiero Fedeli  
 
-  ### Full Stack & Power Platform DEV | UI/UX Designer | AI Enthusiast  
+  ### Power Platform DEV | UI/UX Designer | AI Enthusiast  
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me :
 
-I'm a **Power Platform** and **Full Stack Developer** from **Rome, Italy** 🇮🇹 (28 y.o.)  
+I'm a **Power Platform** and **Full Stack Developer** from **Rome, Italy** 🇮🇹 (29 y.o.)  
 - 🌱 Currently diving into: **Power Platform** & **Azure Services**  
 - 🎮 Passions: **Nerd | Bass Player | Digital Artist**  
 - 🤖 Curious Mind: **AI & Automation Lover**  
@@ -48,7 +48,6 @@ I'm a **Power Platform** and **Full Stack Developer** from **Rome, Italy** 🇮�
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>
