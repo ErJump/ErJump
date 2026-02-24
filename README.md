@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnZsYzFhdjFidHl5eGRxczB6Zmg0aGMzejNrcXNjejI3eWNwdXFwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200"/>
+  <img src="https://gist.github.com/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" width="200"/>
 </div>
 
 <div align="center">
