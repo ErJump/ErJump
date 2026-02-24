@@ -4,10 +4,6 @@
   
 </div>
 
-<div id="header" align="center">
-  <img src="https://gist.github.com/brudnak/32733920b48d8aac9df7f20ffe375383/raw/fc87e0b765992a16210fd76e3efb6a36c9c42641/bongo-cat.gif" width="200"/>
-</div>
-
 <div align="center">
   
   ## 🚀 Giampiero Fedeli  
@@ -77,13 +73,6 @@ I'm a **Power Platform** and **Full Stack Developer** from **Rome, Italy** 🇮�
 
 ---
 
-### 📊 GitHub Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erjump&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
----
 
 ### 🎯 Fun Fact :
 > **_"Code is like humor. When you have to explain it, it's bad."_**  
